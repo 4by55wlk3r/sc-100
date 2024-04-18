@@ -1,0 +1,2 @@
+Microsoft Sentinel provides cloud native security analytics and threat intelligence across your organization, enabling improved threat detection that makes use of large repositories of threat intelligence, and the nearly unlimited processing and storage capabilities of the cloud.
+

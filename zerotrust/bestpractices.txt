@@ -1,0 +1,22 @@
+Antipatterns - A common mistake that lead to negative outcomes. Its the opposite of a best practice.
+
+Examples of antipatterns:
+    -We dont patch unless its critical.
+    -Waiting for patch perfection instead of building resilience.
+    -Focusing only on operating systems - This antipattern patches only servers and workstations without also addressing containers, applications, firmware, and IoT/OT devices.
+
+Cybersecurity architects help integrate security best practices and make them actionable by doing the following:
+-Integrating best practices into security architecture and policy.
+-Advising security leaders on how to integrate best practices and which technology capabilities make best practices easier to implement/
+-Advising other in the organization on how to integrate security best practices in their areas of ownership.
+
+Zero Trust Architecture:
+-Use least privilege access - Limit user access with Just-In-Time and Just Enough Access (JIT/JEA), rick-based adaptive policies, and data protection.
+-Assume breach - Minimize blast radius and segment access. Verify end-to-end encryption and use analytics to get visibility, drive threat detection, and improve defenses.
+
+The zero trust model assumes breach and verifies each request as though it originated from an uncontrolled network. 
+
+With zero trust you want to make sure your networks are segmented correctly.
+Use machine learning based threat protection and filtering with context based signals
+All traffic is encrypted.
+
